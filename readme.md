@@ -27,4 +27,4 @@ yarn start
     <li><a href="https://nextjs.org/" target="_blank">Next.js</a></li>
 </ul>
 
-<img width="300" src="./src/assets/dashboard.png" alt="Logo" />
+<img src="./src/assets/dashboard.png" alt="Logo" />
